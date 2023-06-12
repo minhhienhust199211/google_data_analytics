@@ -1,4 +1,4 @@
-# google_data_analytics
+# Google_data_analytics
 This repository written for reference and self-documentation purpose
 Feel free to contribute!
 Prepare for a new career in the high-growth field of data analytics, no experience or degree required. Get professional training designed by Google and have the opportunity to connect with top employers. There are 337,400 U.S. job openings in data analytics with a $67,900 average entry-level salary.
